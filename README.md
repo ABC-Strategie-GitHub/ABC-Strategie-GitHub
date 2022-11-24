@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ciao a tutti!👋
+### Questa è la pagina GitHub ufficiale di A.B.C. Strategie - Reparto Informatico.
 
 - 🔭 I’m currently working on Odoo
 
