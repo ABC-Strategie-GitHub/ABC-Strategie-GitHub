@@ -1,9 +1,10 @@
 ### Ciao a tutti!👋
-### Questa è la pagina GitHub ufficiale di A.B.C. Strategie - Reparto Informatico.
+### Questa è la pagina GitHub ufficiale di A.B.C. Strategie - Reparto Informatico. :computer: :computer: :computer:
+
 
 - 🔭 I’m currently working on Odoo
 
-:computer:
+
 
 <!--
 **ABC-Strategie-GitHub/ABC-Strategie-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
