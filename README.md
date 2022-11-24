@@ -1,6 +1,10 @@
 ### Ciao a tutti!👋
 ### Questa è la pagina GitHub ufficiale di A.B.C. Strategie - Reparto Informatico. :computer: :computer: :computer:
 
+Team :busts_in_silhouette: :
+- Alessandro Passanante
+- Antonio Rotolo
+- Massimo Masi
 
 - 🔭 I’m currently working on Odoo
 
