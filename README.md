@@ -1,6 +1,6 @@
 ### Ciao a tutti! 👋
 ### Questa è la pagina GitHub ufficiale di A.B.C. Strategie - Reparto Informatico. :computer:
-### :it::it::it: Odoo Gold Partner :it::it::it:
+### :it: Odoo Gold Partner :it:
 
 Team :busts_in_silhouette: :
 - Alessandro Passanante 
