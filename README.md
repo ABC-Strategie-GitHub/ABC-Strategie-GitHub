@@ -1,10 +1,10 @@
 ### Ciao a tutti!👋
-### Questa è la pagina GitHub ufficiale di A.B.C. Strategie - Reparto Informatico. :computer: :computer: :computer:
+### Questa è la pagina GitHub ufficiale di A.B.C. Strategie - Reparto Informatico.
 
 Team :busts_in_silhouette: :
-- Alessandro Passanante
-- Antonio Rotolo
-- Massimo Masi
+- Alessandro Passanante :computer:
+- Antonio Rotolo :computer:
+- Massimo Masi :computer:
 
 
 <!--
