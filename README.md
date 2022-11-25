@@ -6,9 +6,6 @@ Team :busts_in_silhouette: :
 - Antonio Rotolo
 - Massimo Masi
 
-- 🔭 I’m currently working on Odoo
-
-
 
 <!--
 **ABC-Strategie-GitHub/ABC-Strategie-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
