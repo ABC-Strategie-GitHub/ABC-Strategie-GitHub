@@ -1,5 +1,6 @@
-### Ciao a tutti!👋
-### Questa è la pagina GitHub ufficiale di A.B.C. Strategie - Reparto Informatico. :computer:
+# Ciao a tutti!👋
+## Questa è la pagina GitHub ufficiale di A.B.C. Strategie - Reparto Informatico. :computer:
+### Odoo Specialist :mag:
 
 Team :busts_in_silhouette: :
 - Alessandro Passanante 
@@ -8,7 +9,7 @@ Team :busts_in_silhouette: :
 
 Sede: Palermo, Sicilia (IT) :office:
 
-# Odoo Specialist :mag:
+
 
 
 <!--
