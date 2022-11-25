@@ -1,10 +1,14 @@
 ### Ciao a tutti!👋
-### Questa è la pagina GitHub ufficiale di A.B.C. Strategie - Reparto Informatico.
+### Questa è la pagina GitHub ufficiale di A.B.C. Strategie - Reparto Informatico. :computer:
 
 Team :busts_in_silhouette: :
-- Alessandro Passanante :computer:
-- Antonio Rotolo :computer:
-- Massimo Masi :computer:
+- Alessandro Passanante 
+- Antonio Rotolo 
+- Massimo Masi 
+
+Sede: Palermo, Sicilia (IT) :office:
+
+# Odoo Specialist :mag:
 
 
 <!--
