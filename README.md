@@ -7,7 +7,8 @@ Team :busts_in_silhouette: :
 - Antonio Rotolo 
 - Massimo Masi 
 
-Sede: Palermo, Sicilia (IT) :office:
+Sede :office: :
+- Palermo, Sicilia (IT) 
 
 
 
