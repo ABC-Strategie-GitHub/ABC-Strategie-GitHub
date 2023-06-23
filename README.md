@@ -6,6 +6,7 @@ Team :busts_in_silhouette: :
 - Alessandro Passanante 
 - Antonio Rotolo 
 - Massimo Masi 
+- Pietro Passanante
 
 Sede :office: :
 - Palermo, Sicilia (IT) 
